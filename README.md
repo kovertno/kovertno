@@ -47,6 +47,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kovertno&theme=dark" alt="kovertno" />
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kovertno/kovertno/output/snake.svg" alt="snake animation" />
-</div>
+<img src="https://raw.githubusercontent.com/kovertno/kovertno/output/snake.svg" alt="Snake animation" />
