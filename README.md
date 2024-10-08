@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on 2D Game Engine
+- 🌱 I’m currently learning Game Engine architecture
+- 📫 How to reach me: konradkurzak@onet.pl
+
 <!--
 **kovertno/kovertno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
