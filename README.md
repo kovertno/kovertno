@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on 2D Game Engine
+- 🔭 I’m currently working on a 2D Game Engine
 - 🌱 I’m currently learning Game Engine architecture
 - 📫 How to reach me: konradkurzak@onet.pl
 
