@@ -48,5 +48,5 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/kovertno/kovertno/raw/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/kovertno/kovertno/output/snake.svg" alt="snake animation" />
 </div>
