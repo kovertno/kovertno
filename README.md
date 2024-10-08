@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Konrad</h1>
-<h3 align="center">A passionate Computer Science student from Poland</h3>
+<h3 align="center">A passionate Computer Science student from 🇵🇱</h3>
 
 - 🔭 I’m currently working on a **2D Game Engine**
 
