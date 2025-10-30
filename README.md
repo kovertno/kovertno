@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a **2D Game Engine**
 
-- 🌱 I’m currently learning **Game Engine architecture, Java**
+- 🌱 I’m currently learning **Game Engine architecture, OpenGL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kovertno](https://github.com/kovertno)
 
